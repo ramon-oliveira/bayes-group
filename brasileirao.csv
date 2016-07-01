@@ -1,0 +1,381 @@
+data,hora,time_casa,time_fora,gols_casa,gols_fora
+"Saturday, May 9 2015",22:30,Palmeiras,Atletico MG,2,2
+"Saturday, May 9 2015",22:30,Chapecoense AF,Coritiba,2,1
+"Sunday, May 10 2015",01:00,Fluminense,Joinville,1,0
+"Sunday, May 10 2015",15:00,Gremio,Ponte Preta,3,3
+"Sunday, May 10 2015",20:00,Cruzeiro,Corinthians,0,1
+"Sunday, May 10 2015",20:00,Atletico PR,Internacional,3,0
+"Sunday, May 10 2015",20:00,Sport,Figueirense,4,1
+"Sunday, May 10 2015",20:00,Sao Paulo,Flamengo,2,1
+"Sunday, May 10 2015",22:30,Avai FC,Santos FC,1,1
+"Sunday, May 10 2015",22:30,Vasco da Gama,Goias,0,0
+"Saturday, May 16 2015",22:30,Coritiba,Gremio,2,0
+"Saturday, May 16 2015",22:30,Goias,Atletico PR,2,0
+"Sunday, May 17 2015",01:00,Corinthians,Chapecoense AF,1,0
+"Sunday, May 17 2015",15:00,Figueirense,Vasco da Gama,0,0
+"Sunday, May 17 2015",20:00,Atletico MG,Fluminense,4,1
+"Sunday, May 17 2015",20:00,Santos FC,Cruzeiro,1,0
+"Sunday, May 17 2015",20:00,Flamengo,Sport,2,2
+"Sunday, May 17 2015",22:30,Internacional,Avai FC,1,0
+"Sunday, May 17 2015",22:30,Joinville,Palmeiras,0,0
+"Sunday, May 17 2015",22:30,Ponte Preta,Sao Paulo,1,0
+"Saturday, May 23 2015",22:30,Sao Paulo,Joinville,3,0
+"Saturday, May 23 2015",22:30,Vasco da Gama,Internacional,1,1
+"Sunday, May 24 2015",01:00,Gremio,Figueirense,1,0
+"Sunday, May 24 2015",15:00,Palmeiras,Goias,0,1
+"Sunday, May 24 2015",20:00,Fluminense,Corinthians,0,0
+"Sunday, May 24 2015",20:00,Avai FC,Flamengo,2,1
+"Sunday, May 24 2015",20:00,Atletico PR,Atletico MG,1,0
+"Sunday, May 24 2015",20:00,Chapecoense AF,Santos FC,1,0
+"Sunday, May 24 2015",22:30,Sport,Coritiba,1,0
+"Sunday, May 24 2015",22:30,Cruzeiro,Ponte Preta,1,1
+"Saturday, May 30 2015",22:30,Ponte Preta,Chapecoense AF,3,1
+"Saturday, May 30 2015",22:30,Coritiba,Avai FC,1,2
+"Sunday, May 31 2015",01:00,Joinville,Atletico PR,1,2
+"Sunday, May 31 2015",15:00,Santos FC,Sport,2,2
+"Sunday, May 31 2015",20:00,Goias,Gremio,1,1
+"Sunday, May 31 2015",20:00,Internacional,Sao Paulo,0,0
+"Sunday, May 31 2015",20:00,Atletico MG,Vasco da Gama,3,0
+"Sunday, May 31 2015",20:00,Corinthians,Palmeiras,0,2
+"Sunday, May 31 2015",22:30,Figueirense,Cruzeiro,2,1
+"Sunday, May 31 2015",22:30,Flamengo,Fluminense,2,3
+"Wednesday, Jun 3 2015",23:30,Atletico PR,Figueirense,1,0
+"Wednesday, Jun 3 2015",23:30,Chapecoense AF,Joinville,2,0
+"Wednesday, Jun 3 2015",23:30,Vasco da Gama,Ponte Preta,0,3
+"Thursday, Jun 4 2015",01:00,Sao Paulo,Santos FC,3,2
+"Thursday, Jun 4 2015",02:00,Gremio,Corinthians,3,1
+"Thursday, Jun 4 2015",02:00,Cruzeiro,Flamengo,1,0
+"Thursday, Jun 4 2015",02:00,Avai FC,Atletico MG,1,4
+"Thursday, Jun 4 2015",20:00,Fluminense,Coritiba,2,0
+"Friday, Jun 5 2015",01:00,Palmeiras,Internacional,1,1
+"Friday, Jun 5 2015",01:00,Sport,Goias,1,0
+"Saturday, Jun 6 2015",22:30,Santos FC,Ponte Preta,2,2
+"Saturday, Jun 6 2015",22:30,Flamengo,Chapecoense AF,1,0
+"Saturday, Jun 6 2015",22:30,Atletico MG,Cruzeiro,1,3
+"Sunday, Jun 7 2015",02:00,Atletico PR,Vasco da Gama,2,0
+"Sunday, Jun 7 2015",02:00,Joinville,Corinthians,0,1
+"Sunday, Jun 7 2015",02:00,Sao Paulo,Gremio,2,0
+"Sunday, Jun 7 2015",15:00,Internacional,Coritiba,2,0
+"Sunday, Jun 7 2015",23:30,Figueirense,Palmeiras,2,1
+"Sunday, Jun 7 2015",23:30,Goias,Avai FC,0,1
+"Sunday, Jun 7 2015",23:30,Fluminense,Sport,0,0
+"Wednesday, Jun 10 2015",23:30,Atletico MG,Santos FC,2,2
+"Saturday, Jun 13 2015",20:30,Coritiba,Flamengo,0,1
+"Saturday, Jun 13 2015",20:30,Chapecoense AF,Sao Paulo,0,1
+"Saturday, Jun 13 2015",20:30,Corinthians,Internacional,2,1
+"Sunday, Jun 14 2015",01:00,Sport,Joinville,2,1
+"Sunday, Jun 14 2015",01:00,Vasco da Gama,Cruzeiro,1,3
+"Sunday, Jun 14 2015",15:00,Ponte Preta,Goias,0,0
+"Sunday, Jun 14 2015",20:00,Gremio,Atletico PR,2,1
+"Sunday, Jun 14 2015",20:00,Avai FC,Figueirense,1,1
+"Sunday, Jun 14 2015",20:00,Palmeiras,Fluminense,2,1
+"Friday, Jun 19 2015",01:00,Figueirense,Internacional,0,0
+"Saturday, Jun 20 2015",20:30,Sport,Vasco da Gama,2,1
+"Saturday, Jun 20 2015",20:30,Santos FC,Corinthians,1,0
+"Saturday, Jun 20 2015",20:30,Flamengo,Atletico MG,0,2
+"Sunday, Jun 21 2015",01:00,Gremio,Palmeiras,1,0
+"Sunday, Jun 21 2015",15:00,Cruzeiro,Chapecoense AF,0,1
+"Sunday, Jun 21 2015",20:00,Atletico PR,Coritiba,2,2
+"Sunday, Jun 21 2015",20:00,Joinville,Goias,2,1
+"Sunday, Jun 21 2015",20:00,Sao Paulo,Avai FC,1,1
+"Wednesday, Jun 24 2015",23:30,Fluminense,Ponte Preta,2,0
+"Saturday, Jun 27 2015",20:00,Chapecoense AF,Sport,1,1
+"Saturday, Jun 27 2015",20:00,Avai FC,Gremio,1,2
+"Sunday, Jun 28 2015",01:00,Corinthians,Figueirense,2,1
+"Sunday, Jun 28 2015",15:00,Atletico MG,Joinville,1,0
+"Sunday, Jun 28 2015",20:00,Ponte Preta,Atletico PR,2,1
+"Sunday, Jun 28 2015",20:00,Coritiba,Cruzeiro,1,0
+"Sunday, Jun 28 2015",20:00,Goias,Fluminense,1,2
+"Sunday, Jun 28 2015",20:00,Palmeiras,Sao Paulo,4,0
+"Sunday, Jun 28 2015",22:30,Vasco da Gama,Flamengo,1,0
+"Sunday, Jun 28 2015",22:30,Internacional,Santos FC,1,0
+"Wednesday, Jul 1 2015",23:30,Vasco da Gama,Avai FC,1,0
+"Wednesday, Jul 1 2015",23:30,Sport,Internacional,3,0
+"Thursday, Jul 2 2015",01:00,Atletico MG,Coritiba,2,0
+"Thursday, Jul 2 2015",01:00,Palmeiras,Chapecoense AF,2,0
+"Thursday, Jul 2 2015",02:00,Gremio,Cruzeiro,1,0
+"Thursday, Jul 2 2015",02:00,Joinville,Flamengo,0,1
+"Thursday, Jul 2 2015",02:00,Atletico PR,Sao Paulo,2,1
+"Thursday, Jul 2 2015",23:30,Figueirense,Goias,3,1
+"Thursday, Jul 2 2015",23:30,Corinthians,Ponte Preta,2,0
+"Friday, Jul 3 2015",01:00,Fluminense,Santos FC,2,1
+"Saturday, Jul 4 2015",19:00,Coritiba,Joinville,0,0
+"Sunday, Jul 5 2015",01:00,Cruzeiro,Atletico PR,2,0
+"Sunday, Jul 5 2015",01:00,Chapecoense AF,Vasco da Gama,1,0
+"Sunday, Jul 5 2015",15:00,Avai FC,Sport,2,2
+"Sunday, Jul 5 2015",20:00,Goias,Corinthians,0,0
+"Sunday, Jul 5 2015",20:00,Sao Paulo,Fluminense,0,0
+"Sunday, Jul 5 2015",20:00,Santos FC,Gremio,1,3
+"Sunday, Jul 5 2015",22:30,Ponte Preta,Palmeiras,0,2
+"Sunday, Jul 5 2015",22:30,Flamengo,Figueirense,1,2
+"Sunday, Jul 5 2015",22:30,Internacional,Atletico MG,1,3
+"Wednesday, Jul 8 2015",23:30,Chapecoense AF,Gremio,1,0
+"Wednesday, Jul 8 2015",23:30,Coritiba,Ponte Preta,0,0
+"Wednesday, Jul 8 2015",23:30,Goias,Santos FC,4,1
+"Thursday, Jul 9 2015",01:00,Figueirense,Joinville,0,2
+"Thursday, Jul 9 2015",01:00,Palmeiras,Avai FC,3,0
+"Thursday, Jul 9 2015",02:00,Atletico MG,Sport,2,1
+"Thursday, Jul 9 2015",02:00,Vasco da Gama,Sao Paulo,0,4
+"Thursday, Jul 9 2015",02:00,Internacional,Flamengo,1,2
+"Thursday, Jul 9 2015",23:30,Corinthians,Atletico PR,2,0
+"Friday, Jul 10 2015",01:00,Fluminense,Cruzeiro,1,0
+"Saturday, Jul 11 2015",22:30,Santos FC,Figueirense,3,0
+"Saturday, Jul 11 2015",22:30,Gremio,Vasco da Gama,2,0
+"Sunday, Jul 12 2015",01:00,Ponte Preta,Atletico MG,0,2
+"Sunday, Jul 12 2015",15:00,Sao Paulo,Coritiba,3,1
+"Sunday, Jul 12 2015",20:00,Cruzeiro,Goias,1,0
+"Sunday, Jul 12 2015",20:00,Joinville,Internacional,0,2
+"Sunday, Jul 12 2015",20:00,Atletico PR,Fluminense,1,2
+"Sunday, Jul 12 2015",20:00,Flamengo,Corinthians,0,3
+"Sunday, Jul 12 2015",22:30,Sport,Palmeiras,2,2
+"Sunday, Jul 12 2015",22:30,Avai FC,Chapecoense AF,2,1
+"Saturday, Jul 18 2015",22:30,Flamengo,Gremio,1,0
+"Saturday, Jul 18 2015",22:30,Internacional,Goias,2,1
+"Sunday, Jul 19 2015",01:00,Corinthians,Atletico MG,1,0
+"Sunday, Jul 19 2015",15:00,Atletico PR,Chapecoense AF,1,0
+"Sunday, Jul 19 2015",20:00,Sport,Sao Paulo,2,0
+"Sunday, Jul 19 2015",20:00,Figueirense,Coritiba,0,0
+"Sunday, Jul 19 2015",20:00,Palmeiras,Santos FC,1,0
+"Sunday, Jul 19 2015",20:00,Fluminense,Vasco da Gama,1,2
+"Sunday, Jul 19 2015",22:30,Cruzeiro,Avai FC,1,1
+"Sunday, Jul 19 2015",22:30,Joinville,Ponte Preta,1,1
+"Saturday, Jul 25 2015",22:30,Avai FC,Atletico PR,1,2
+"Saturday, Jul 25 2015",23:30,Gremio,Sport,1,1
+"Sunday, Jul 26 2015",01:00,Atletico MG,Figueirense,1,0
+"Sunday, Jul 26 2015",15:00,Chapecoense AF,Fluminense,2,1
+"Sunday, Jul 26 2015",15:00,Santos FC,Joinville,2,0
+"Sunday, Jul 26 2015",20:00,Sao Paulo,Cruzeiro,1,0
+"Sunday, Jul 26 2015",20:00,Ponte Preta,Internacional,0,0
+"Sunday, Jul 26 2015",20:00,Coritiba,Corinthians,1,1
+"Sunday, Jul 26 2015",20:00,Goias,Flamengo,0,1
+"Sunday, Jul 26 2015",22:30,Vasco da Gama,Palmeiras,1,4
+"Thursday, Jul 30 2015",02:00,Corinthians,Vasco da Gama,3,0
+"Thursday, Jul 30 2015",02:00,Atletico MG,Sao Paulo,3,1
+"Saturday, Aug 1 2015",22:30,Fluminense,Gremio,1,0
+"Sunday, Aug 2 2015",15:00,Palmeiras,Atletico PR,0,1
+"Sunday, Aug 2 2015",15:00,Coritiba,Goias,1,1
+"Sunday, Aug 2 2015",20:00,Internacional,Chapecoense AF,0,0
+"Sunday, Aug 2 2015",20:00,Figueirense,Ponte Preta,3,1
+"Sunday, Aug 2 2015",20:00,Joinville,Avai FC,2,0
+"Sunday, Aug 2 2015",20:00,Flamengo,Santos FC,2,2
+"Sunday, Aug 2 2015",22:30,Sport,Cruzeiro,0,0
+"Saturday, Aug 8 2015",22:30,Avai FC,Fluminense,1,0
+"Sunday, Aug 9 2015",01:00,Santos FC,Coritiba,3,0
+"Sunday, Aug 9 2015",15:00,Vasco da Gama,Joinville,0,0
+"Sunday, Aug 9 2015",15:00,Atletico PR,Sport,1,1
+"Sunday, Aug 9 2015",20:00,Cruzeiro,Palmeiras,2,1
+"Sunday, Aug 9 2015",20:00,Sao Paulo,Corinthians,1,1
+"Sunday, Aug 9 2015",20:00,Ponte Preta,Flamengo,1,0
+"Sunday, Aug 9 2015",20:00,Goias,Atletico MG,0,0
+"Sunday, Aug 9 2015",22:30,Chapecoense AF,Figueirense,2,2
+"Sunday, Aug 9 2015",22:30,Gremio,Internacional,5,0
+"Wednesday, Aug 12 2015",23:30,Flamengo,Atletico PR,3,2
+"Wednesday, Aug 12 2015",23:30,Coritiba,Palmeiras,2,1
+"Thursday, Aug 13 2015",01:00,Goias,Chapecoense AF,0,0
+"Thursday, Aug 13 2015",01:00,Santos FC,Vasco da Gama,1,0
+"Thursday, Aug 13 2015",02:00,Internacional,Fluminense,1,0
+"Thursday, Aug 13 2015",02:00,Corinthians,Sport,4,3
+"Thursday, Aug 13 2015",02:00,Figueirense,Sao Paulo,0,2
+"Thursday, Aug 13 2015",23:30,Ponte Preta,Avai FC,2,0
+"Friday, Aug 14 2015",01:00,Atletico MG,Gremio,0,2
+"Friday, Aug 14 2015",01:00,Joinville,Cruzeiro,3,0
+"Saturday, Aug 15 2015",22:30,Vasco da Gama,Coritiba,0,1
+"Saturday, Aug 15 2015",22:30,Atletico PR,Santos FC,0,0
+"Sunday, Aug 16 2015",01:00,Sao Paulo,Goias,0,3
+"Sunday, Aug 16 2015",15:00,Palmeiras,Flamengo,4,2
+"Sunday, Aug 16 2015",20:00,Fluminense,Figueirense,2,1
+"Sunday, Aug 16 2015",20:00,Avai FC,Corinthians,1,2
+"Sunday, Aug 16 2015",20:00,Sport,Ponte Preta,1,1
+"Sunday, Aug 16 2015",20:00,Cruzeiro,Internacional,0,0
+"Sunday, Aug 16 2015",22:30,Chapecoense AF,Atletico MG,2,1
+"Sunday, Aug 16 2015",22:30,Gremio,Joinville,2,1
+"Saturday, Aug 22 2015",22:30,Santos FC,Avai FC,5,2
+"Saturday, Aug 22 2015",22:30,Goias,Vasco da Gama,3,0
+"Sunday, Aug 23 2015",01:00,Figueirense,Sport,2,1
+"Sunday, Aug 23 2015",15:00,Coritiba,Chapecoense AF,1,0
+"Sunday, Aug 23 2015",15:00,Ponte Preta,Gremio,0,0
+"Sunday, Aug 23 2015",20:00,Internacional,Atletico PR,2,0
+"Sunday, Aug 23 2015",20:00,Flamengo,Sao Paulo,2,1
+"Sunday, Aug 23 2015",20:00,Corinthians,Cruzeiro,3,0
+"Sunday, Aug 23 2015",20:00,Joinville,Fluminense,2,1
+"Sunday, Aug 23 2015",22:30,Atletico MG,Palmeiras,2,1
+"Saturday, Aug 29 2015",22:30,Vasco da Gama,Figueirense,0,1
+"Sunday, Aug 30 2015",01:00,Sao Paulo,Ponte Preta,3,0
+"Sunday, Aug 30 2015",15:00,Gremio,Coritiba,0,0
+"Sunday, Aug 30 2015",15:00,Avai FC,Internacional,3,0
+"Sunday, Aug 30 2015",20:00,Fluminense,Atletico MG,1,2
+"Sunday, Aug 30 2015",20:00,Palmeiras,Joinville,3,2
+"Sunday, Aug 30 2015",20:00,Chapecoense AF,Corinthians,1,3
+"Sunday, Aug 30 2015",20:00,Sport,Flamengo,0,1
+"Sunday, Aug 30 2015",22:30,Atletico PR,Goias,3,0
+"Sunday, Aug 30 2015",22:30,Cruzeiro,Santos FC,0,1
+"Wednesday, Sep 2 2015",23:30,Ponte Preta,Cruzeiro,1,2
+"Wednesday, Sep 2 2015",23:30,Internacional,Vasco da Gama,6,0
+"Wednesday, Sep 2 2015",23:30,Joinville,Sao Paulo,0,0
+"Thursday, Sep 3 2015",01:00,Flamengo,Avai FC,3,0
+"Thursday, Sep 3 2015",01:00,Atletico MG,Atletico PR,0,1
+"Thursday, Sep 3 2015",02:00,Coritiba,Sport,0,0
+"Thursday, Sep 3 2015",02:00,Goias,Palmeiras,1,0
+"Thursday, Sep 3 2015",02:00,Corinthians,Fluminense,2,0
+"Thursday, Sep 3 2015",23:30,Santos FC,Chapecoense AF,3,1
+"Friday, Sep 4 2015",01:00,Figueirense,Gremio,0,2
+"Saturday, Sep 5 2015",23:30,Sao Paulo,Internacional,2,0
+"Saturday, Sep 5 2015",23:30,Vasco da Gama,Atletico MG,1,2
+"Sunday, Sep 6 2015",01:00,Atletico PR,Joinville,0,0
+"Sunday, Sep 6 2015",15:00,Cruzeiro,Figueirense,5,1
+"Sunday, Sep 6 2015",15:00,Chapecoense AF,Ponte Preta,0,0
+"Sunday, Sep 6 2015",20:00,Palmeiras,Corinthians,3,3
+"Sunday, Sep 6 2015",20:00,Fluminense,Flamengo,1,3
+"Sunday, Sep 6 2015",20:00,Avai FC,Coritiba,0,2
+"Sunday, Sep 6 2015",20:00,Gremio,Goias,2,1
+"Sunday, Sep 6 2015",22:30,Sport,Santos FC,1,1
+"Wednesday, Sep 9 2015",23:30,Ponte Preta,Vasco da Gama,0,1
+"Wednesday, Sep 9 2015",23:30,Internacional,Palmeiras,1,0
+"Wednesday, Sep 9 2015",23:30,Atletico MG,Avai FC,2,0
+"Thursday, Sep 10 2015",01:00,Figueirense,Atletico PR,1,1
+"Thursday, Sep 10 2015",02:00,Coritiba,Fluminense,1,1
+"Thursday, Sep 10 2015",02:00,Corinthians,Gremio,1,1
+"Thursday, Sep 10 2015",02:00,Santos FC,Sao Paulo,3,0
+"Thursday, Sep 10 2015",23:30,Goias,Sport,1,0
+"Friday, Sep 11 2015",01:00,Joinville,Chapecoense AF,0,0
+"Friday, Sep 11 2015",01:00,Flamengo,Cruzeiro,2,0
+"Saturday, Sep 12 2015",22:30,Coritiba,Internacional,0,1
+"Sunday, Sep 13 2015",01:00,Palmeiras,Figueirense,2,0
+"Sunday, Sep 13 2015",15:00,Ponte Preta,Santos FC,3,1
+"Sunday, Sep 13 2015",15:00,Corinthians,Joinville,3,0
+"Sunday, Sep 13 2015",20:00,Chapecoense AF,Flamengo,1,3
+"Sunday, Sep 13 2015",20:00,Cruzeiro,Atletico MG,1,1
+"Sunday, Sep 13 2015",20:00,Vasco da Gama,Atletico PR,2,0
+"Sunday, Sep 13 2015",20:00,Gremio,Sao Paulo,1,2
+"Sunday, Sep 13 2015",22:30,Avai FC,Goias,2,1
+"Sunday, Sep 13 2015",22:30,Sport,Fluminense,1,0
+"Wednesday, Sep 16 2015",23:30,Fluminense,Palmeiras,1,4
+"Wednesday, Sep 16 2015",23:30,Joinville,Sport,1,1
+"Wednesday, Sep 16 2015",23:30,Goias,Ponte Preta,1,2
+"Thursday, Sep 17 2015",01:00,Figueirense,Avai FC,0,1
+"Thursday, Sep 17 2015",01:00,Atletico PR,Gremio,1,2
+"Thursday, Sep 17 2015",02:00,Cruzeiro,Vasco da Gama,2,2
+"Thursday, Sep 17 2015",02:00,Internacional,Corinthians,2,1
+"Thursday, Sep 17 2015",02:00,Santos FC,Atletico MG,4,0
+"Thursday, Sep 17 2015",23:30,Sao Paulo,Chapecoense AF,0,0
+"Friday, Sep 18 2015",01:00,Flamengo,Coritiba,0,2
+"Saturday, Sep 19 2015",22:30,Internacional,Figueirense,1,1
+"Saturday, Sep 19 2015",22:30,Palmeiras,Gremio,3,2
+"Sunday, Sep 20 2015",01:00,Ponte Preta,Fluminense,3,1
+"Sunday, Sep 20 2015",15:00,Corinthians,Santos FC,2,0
+"Sunday, Sep 20 2015",15:00,Goias,Joinville,3,0
+"Sunday, Sep 20 2015",20:00,Atletico MG,Flamengo,4,1
+"Sunday, Sep 20 2015",20:00,Vasco da Gama,Sport,2,1
+"Sunday, Sep 20 2015",20:00,Avai FC,Sao Paulo,2,1
+"Sunday, Sep 20 2015",22:30,Coritiba,Atletico PR,2,0
+"Sunday, Sep 20 2015",22:30,Chapecoense AF,Cruzeiro,0,2
+"Saturday, Sep 26 2015",22:30,Fluminense,Goias,2,0
+"Sunday, Sep 27 2015",01:00,Gremio,Avai FC,3,1
+"Sunday, Sep 27 2015",15:00,Santos FC,Internacional,3,1
+"Sunday, Sep 27 2015",15:00,Atletico PR,Ponte Preta,1,2
+"Sunday, Sep 27 2015",20:00,Figueirense,Corinthians,1,3
+"Sunday, Sep 27 2015",20:00,Joinville,Atletico MG,2,2
+"Sunday, Sep 27 2015",20:00,Sao Paulo,Palmeiras,1,1
+"Sunday, Sep 27 2015",20:00,Flamengo,Vasco da Gama,1,2
+"Sunday, Sep 27 2015",22:30,Cruzeiro,Coritiba,2,0
+"Sunday, Sep 27 2015",22:30,Sport,Chapecoense AF,3,0
+"Saturday, Oct 3 2015",22:30,Internacional,Sport,2,1
+"Saturday, Oct 3 2015",22:30,Coritiba,Atletico MG,0,3
+"Sunday, Oct 4 2015",01:00,Sao Paulo,Atletico PR,1,0
+"Sunday, Oct 4 2015",15:00,Avai FC,Vasco da Gama,1,1
+"Sunday, Oct 4 2015",15:00,Flamengo,Joinville,2,0
+"Sunday, Oct 4 2015",20:00,Santos FC,Fluminense,3,1
+"Sunday, Oct 4 2015",20:00,Ponte Preta,Corinthians,2,2
+"Sunday, Oct 4 2015",20:00,Cruzeiro,Gremio,0,0
+"Sunday, Oct 4 2015",20:00,Goias,Figueirense,2,3
+"Sunday, Oct 4 2015",22:30,Chapecoense AF,Palmeiras,5,1
+"Wednesday, Oct 14 2015",23:30,Atletico MG,Internacional,2,1
+"Wednesday, Oct 14 2015",23:30,Sport,Avai FC,3,0
+"Thursday, Oct 15 2015",01:00,Joinville,Coritiba,3,1
+"Thursday, Oct 15 2015",01:00,Figueirense,Flamengo,3,0
+"Thursday, Oct 15 2015",01:00,Palmeiras,Ponte Preta,0,1
+"Thursday, Oct 15 2015",02:00,Fluminense,Sao Paulo,2,0
+"Thursday, Oct 15 2015",02:00,Atletico PR,Cruzeiro,2,2
+"Thursday, Oct 15 2015",23:30,Vasco da Gama,Chapecoense AF,1,1
+"Thursday, Oct 15 2015",23:30,Corinthians,Goias,3,0
+"Friday, Oct 16 2015",01:00,Gremio,Santos FC,1,0
+"Saturday, Oct 17 2015",22:30,Avai FC,Palmeiras,1,3
+"Sunday, Oct 18 2015",01:00,Joinville,Figueirense,1,0
+"Sunday, Oct 18 2015",14:00,Cruzeiro,Fluminense,2,0
+"Sunday, Oct 18 2015",14:00,Ponte Preta,Coritiba,3,0
+"Sunday, Oct 18 2015",19:00,Flamengo,Internacional,0,1
+"Sunday, Oct 18 2015",19:00,Sao Paulo,Vasco da Gama,2,2
+"Sunday, Oct 18 2015",19:00,Atletico PR,Corinthians,1,4
+"Sunday, Oct 18 2015",20:00,Santos FC,Goias,3,1
+"Sunday, Oct 18 2015",20:00,Gremio,Chapecoense AF,2,3
+"Sunday, Oct 18 2015",21:30,Sport,Atletico MG,4,1
+"Saturday, Oct 24 2015",20:00,Fluminense,Atletico PR,0,1
+"Saturday, Oct 24 2015",21:30,Internacional,Joinville,1,0
+"Saturday, Oct 24 2015",21:30,Figueirense,Santos FC,0,0
+"Sunday, Oct 25 2015",00:00,Palmeiras,Sport,0,2
+"Sunday, Oct 25 2015",19:00,Corinthians,Flamengo,1,0
+"Sunday, Oct 25 2015",19:00,Vasco da Gama,Gremio,0,0
+"Sunday, Oct 25 2015",19:00,Chapecoense AF,Avai FC,0,0
+"Sunday, Oct 25 2015",19:00,Coritiba,Sao Paulo,1,2
+"Sunday, Oct 25 2015",20:00,Goias,Cruzeiro,0,1
+"Sunday, Oct 25 2015",21:30,Atletico MG,Ponte Preta,2,1
+"Saturday, Oct 31 2015",19:00,Sao Paulo,Sport,3,0
+"Saturday, Oct 31 2015",21:30,Avai FC,Cruzeiro,1,1
+"Saturday, Oct 31 2015",21:30,Ponte Preta,Joinville,1,0
+"Saturday, Oct 31 2015",23:00,Coritiba,Figueirense,1,1
+"Sunday, Nov 1 2015",19:00,Atletico MG,Corinthians,0,3
+"Sunday, Nov 1 2015",19:00,Chapecoense AF,Atletico PR,0,0
+"Sunday, Nov 1 2015",19:00,Santos FC,Palmeiras,2,1
+"Sunday, Nov 1 2015",19:00,Gremio,Flamengo,2,0
+"Sunday, Nov 1 2015",20:00,Vasco da Gama,Fluminense,0,1
+"Sunday, Nov 1 2015",21:30,Goias,Internacional,2,1
+"Saturday, Nov 7 2015",19:00,Internacional,Ponte Preta,1,0
+"Saturday, Nov 7 2015",21:30,Atletico PR,Avai FC,2,1
+"Saturday, Nov 7 2015",21:30,Corinthians,Coritiba,2,1
+"Saturday, Nov 7 2015",23:00,Fluminense,Chapecoense AF,2,3
+"Sunday, Nov 8 2015",19:00,Palmeiras,Vasco da Gama,0,2
+"Sunday, Nov 8 2015",19:00,Cruzeiro,Sao Paulo,2,1
+"Sunday, Nov 8 2015",19:00,Flamengo,Goias,4,1
+"Sunday, Nov 8 2015",19:00,Figueirense,Atletico MG,0,1
+"Sunday, Nov 8 2015",20:00,Joinville,Santos FC,0,0
+"Sunday, Nov 8 2015",21:30,Sport,Gremio,1,0
+"Sunday, Nov 15 2015",19:00,Cruzeiro,Sport,3,0
+"Wednesday, Nov 18 2015",21:30,Goias,Coritiba,1,3
+"Wednesday, Nov 18 2015",23:00,Avai FC,Joinville,2,1
+"Wednesday, Nov 18 2015",23:00,Atletico PR,Palmeiras,3,3
+"Wednesday, Nov 18 2015",23:00,Ponte Preta,Figueirense,0,1
+"Thursday, Nov 19 2015",21:30,Gremio,Fluminense,1,0
+"Thursday, Nov 19 2015",22:20,Chapecoense AF,Internacional,1,0
+"Friday, Nov 20 2015",00:00,Vasco da Gama,Corinthians,1,1
+"Friday, Nov 20 2015",00:00,Sao Paulo,Atletico MG,4,2
+"Friday, Nov 20 2015",00:00,Santos FC,Flamengo,0,0
+"Saturday, Nov 21 2015",21:30,Palmeiras,Cruzeiro,1,1
+"Sunday, Nov 22 2015",19:00,Corinthians,Sao Paulo,6,1
+"Sunday, Nov 22 2015",19:00,Figueirense,Chapecoense AF,0,0
+"Sunday, Nov 22 2015",19:00,Internacional,Gremio,1,0
+"Sunday, Nov 22 2015",19:00,Atletico MG,Goias,2,2
+"Sunday, Nov 22 2015",19:00,Joinville,Vasco da Gama,1,2
+"Sunday, Nov 22 2015",20:00,Flamengo,Ponte Preta,1,1
+"Sunday, Nov 22 2015",21:30,Fluminense,Avai FC,3,1
+"Sunday, Nov 22 2015",21:30,Coritiba,Santos FC,1,0
+"Sunday, Nov 22 2015",21:30,Sport,Atletico PR,0,0
+"Saturday, Nov 28 2015",19:00,Sao Paulo,Figueirense,3,2
+"Saturday, Nov 28 2015",21:30,Fluminense,Internacional,1,1
+"Saturday, Nov 28 2015",23:00,Avai FC,Ponte Preta,1,0
+"Sunday, Nov 29 2015",19:00,Sport,Corinthians,2,0
+"Sunday, Nov 29 2015",19:00,Gremio,Atletico MG,2,1
+"Sunday, Nov 29 2015",19:00,Cruzeiro,Joinville,3,0
+"Sunday, Nov 29 2015",20:00,Vasco da Gama,Santos FC,1,0
+"Sunday, Nov 29 2015",20:00,Palmeiras,Coritiba,0,2
+"Sunday, Nov 29 2015",20:00,Chapecoense AF,Goias,1,3
+"Sunday, Nov 29 2015",21:30,Atletico PR,Flamengo,3,0
+"Sunday, Dec 6 2015",19:00,Ponte Preta,Sport,0,1
+"Sunday, Dec 6 2015",19:00,Flamengo,Palmeiras,1,2
+"Sunday, Dec 6 2015",19:00,Internacional,Cruzeiro,2,0
+"Sunday, Dec 6 2015",19:00,Atletico MG,Chapecoense AF,3,0
+"Sunday, Dec 6 2015",19:00,Figueirense,Fluminense,1,0
+"Sunday, Dec 6 2015",19:00,Goias,Sao Paulo,0,1
+"Sunday, Dec 6 2015",19:00,Corinthians,Avai FC,1,1
+"Sunday, Dec 6 2015",19:00,Santos FC,Atletico PR,5,1
+"Sunday, Dec 6 2015",19:00,Coritiba,Vasco da Gama,0,0
+"Sunday, Dec 6 2015",19:00,Joinville,Gremio,0,2
